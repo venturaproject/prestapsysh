@@ -24,6 +24,5 @@ php bin/console prestapsysh:shell
 ```
 
 
-![Module configuration](ruta/de/la/imagen.png)
+![Module CLI](https://i.ibb.co/M2NK0ZM/Captura-de-pantalla-2024-10-16-a-las-16-51-56.png)
 
-![Module CLI](ruta/de/la/imagen.png)

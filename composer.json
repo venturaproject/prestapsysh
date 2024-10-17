@@ -1,0 +1,27 @@
+{
+  "name": "prestapsysh/prestapsysh",
+  "description": "Prestashop psysh",
+  "license": "MIT",
+  "authors": [
+      {
+          "name": "Prestashop",
+          "email": "info@gitprojectdam.com"
+      }
+  ],
+  "require": {
+      "php": "^7.2|^8.0",
+      "psy/psysh": "^0.12" 
+  },
+  "autoload": {
+      "psr-4": {
+          "PrestaShop\\Module\\Prestapsysh\\": "src/"
+      },
+      "exclude-from-classmap": []
+  },
+  "config": {
+      "preferred-install": "dist",
+      "prepend-autoloader": false
+  },
+  "type": "prestashop-module",
+  "version": "1.0.0"
+}

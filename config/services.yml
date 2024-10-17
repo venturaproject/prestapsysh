@@ -1,0 +1,8 @@
+services:
+    prestashop.module.prestapsysh.command.psy_shell:
+        class: PrestaShop\Module\Prestapsysh\Command\PsyShellCommand
+        arguments:
+             - '@translator'
+        tags:
+            - { name: 'console.command' }
+    

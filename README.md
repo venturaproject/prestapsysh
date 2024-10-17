@@ -22,3 +22,8 @@ Once the module is installed, you can access the PsySH shell by executing the fo
 php bin/console prestapsysh:shell
 
 ```
+
+
+![Module configuration](ruta/de/la/imagen.png)
+
+![Module CLI](ruta/de/la/imagen.png)
